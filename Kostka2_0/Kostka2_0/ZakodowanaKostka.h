@@ -10,6 +10,7 @@ class ZakodowanaKostka : public KostkaAbstract
 
 public:
 	//nowa KOSTKA
+	//Solver solver;
 	ZakodowanaKostka();
 	~ZakodowanaKostka();
 
